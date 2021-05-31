@@ -15,7 +15,3 @@ repository:
 html:
   use_repository_button: true
   use_edit_page_button: true
-
-sphinx:
-  extra_extensions:
-  - sphinx_tabs.tabs
