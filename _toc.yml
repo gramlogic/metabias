@@ -1,1 +1,10 @@
-- file: cover
+- file: intro
+
+- part: drafts 
+  chapters:
+  - file: drafts/overview
+
+- part: Notes
+  chapters:
+  - file: notes/maddy1988believing
+  
