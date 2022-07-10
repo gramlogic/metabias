@@ -1,3 +1,7 @@
+# Vim temp files
+*.swp
+*.swo
+
 # Jupyterbooks build files
 _build/
 
