@@ -1,5 +1,12 @@
 # The Method of Mechanical Theorems
 
+### What Happened
+### Significance
+* Low regard for method.
+* Prayer book!
+* Something about intelligence and artifice (save for ch 1?)
+* 
+
 ## Recovery of the Palimpsest
 Owing to a series of lucky coincidences, two lost manuscripts of Archimedes were discovered in an old prayer book.
 
