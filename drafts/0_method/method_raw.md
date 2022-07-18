@@ -1,6 +1,8 @@
 # Methodology
+### TODO
+* This section could be used when we get to structuralism. Many good examples of the connection between foundation and violence.
 
-H.D. begins The Walls Do Not Fall with the observation of a ruined city. The observation from which the work derives its title and develops its principal insight is that the walls of the houses remain long after they have been abandoned. She moves immediately from houses to bodies: the skulls that remain intact after volancic action.
+H.D. begins The Walls Do Not Fall with the observation of a ruined city. The observation from which the work derives its title and develops its principal insight is that the walls of the houses remain long after they have been abandoned. She moves immediately from houses to bodies: the skulls that remain intact after volancic action. [Note reference to war (rails gone for guns).]
 
 Among many other things, this scenes illustrates a key motivating insight of structuralism. That despite certain transformations we find a kind of skeleton of relations between concepts in Western thought (Note references to "Western thought" are not intended to indicate that the observations here are unique to the west, but merely that I confine the scope of my claims to the west for now, for lack of the expertise that would be required to generalize them), and that it is not so easy to destroy this structure or escape it.
 

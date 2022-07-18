@@ -60,7 +60,7 @@ It's the trajectory that describes the ascension and the beginnings of a decline
 One could call it the trajectory of western metaphysics, or the trajectory of the logos.
 But what it really is is a method of mastering anxiety and overcoming uncertainty.
 It operates by inserting a foundation--a set of intitial claims---and delaying the examination of that foundation.
-Whether by declaring them self-satisfying, or by relegating to another discipline, or authorizing them through an external, out-of-bounds authority, or, when all else fails, shoring them up with a further, more fundamental foundation.
+Whether by declaring them self-satisfying, or by relegating to another discipline, or authorizing them through an external, out-of-bounds authority, or attempting to destroy its history and render it unreadable or, when all else fails, shoring them up with a further, more fundamental foundation.
 All of this is the substitution of center for center that Derrida describes as the history of metaphysics.
 Here I only provide some further details and examples.
 Of what presented itself as a structure but turned out really to be a strategy, or a method.
