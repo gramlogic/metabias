@@ -1,7 +1,6 @@
 
 ## Scratch Pad
 
-
 ### Mechanical Method
 * The story of the Archmedes palimpsest
   * Mechanical Method
