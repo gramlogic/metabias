@@ -1,5 +1,11 @@
 # The Strategy of this Text
 
+### Freewrite 2
+
+This moment and mechanism of this shift are of interest in the present work.
+
+
+
 ## Take aways 1
 * Describe a particular historical narrative as following a trajectory that fits within a larger arc and larger trajectory.
 * This larger trajectory is the history of metaphysics.
